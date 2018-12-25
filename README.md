@@ -3,3 +3,15 @@ System to allocate projects and respectively guides to the registered students a
 
 Main Page: 
 ![image](https://github.com/rushabh120/project-allocation-system/blob/master/SShots/mainpage.PNG)
+
+
+Student:
+![image](https://github.com/rushabh120/project-allocation-system/blob/master/SShots/student.PNG)
+
+Faculty:
+![image](https://github.com/rushabh120/project-allocation-system/blob/master/SShots/faculty.PNG)
+
+Admin:
+![image](https://github.com/rushabh120/project-allocation-system/blob/master/SShots/admin.PNG)
+
+
